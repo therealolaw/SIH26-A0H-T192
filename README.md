@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T192
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<KILOWATT KREW>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |S.KAVIN MUTHUVEL         |CB.EN.U4EEE26033        |  MALE           |ELECTRICAL AND ELECTRONICS ENGINEERING   |  
+|    Member 2     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 3     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 4     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 5     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 6     |                         |                        |     Female      |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
 
 #### Mentor Details
 
