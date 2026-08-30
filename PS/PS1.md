@@ -5,6 +5,6 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-T192 - Team <KILOWATT KREW> <br/>
+## SIH26-A0H-T192 - Team <KILOWATT CREW> <br/>
 
 ### PS#1 Development of a Low-Cost Light-weight Milk Chilling Can for Small-Scale Dairy Farmers
