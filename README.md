@@ -9,21 +9,21 @@
 ### Team Details
 #### **Team Name** <<KILOWATT KREW>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |S.KAVIN MUTHUVEL         |CB.EN.U4EEE26033        |  MALE           |ELECTRICAL AND ELECTRONICS ENGINEERING   |  
-|    Member 2     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
-|    Member 3     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
-|    Member 4     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
-|    Member 5     |                         |                        |                 |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
-|    Member 6     |                         |                        |     Female      |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|         Role    |         👤 Name             |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
+|:---------------:|:------------------------     |:----------------------:|:---------------:|:-------------------------------:| 
+|   Team Leader   |S.KAVIN MUTHUVEL              |CB.EN.U4EEE26033        | MALE           |ELECTRICAL AND ELECTRONICS ENGINEERING   |  
+|    Member 2     |DHARUN S                      |CB.EN.U4EEE26008        | MALE            |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 3     |Kovarthan Sivaraj             |CB.EN.U4EEE26014        | MALE            |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 4     |Saamrithaa BK                 |CB.EN.U4EEE26232        | FEMALE          |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 5     |Yogashree Thalapathi Shanmugam|CB.EN.U4EEE26046        | FEMALE          |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
+|    Member 6     |Dharshini T                   |CB.EN.U4EEE26041        | FEMALE          |ELECTRICAL AND ELECTRONICS ENGINEERING   | 
 
 #### Mentor Details
 
-|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
-|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
-| Industry       |                     |                       |                         |                          |
+|     Type       |       Mentor Name   |       Designation     |          Department                  |       Official Email ID  |
+|:--------------:|:--------------------|:---------------------:|:-----------------------:             |:------------------------ |
+| Academic       |RAJAPANDIYAN         |                       |ELECTRICAL AND ELECTRONICS ENGINEERING|                          |
+| IndustrY       |                     |                       |                                      |                          |
 
 -----
 
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* SIH26110
+* Development of a Low-Cost Light-weight Milk Chilling Can for Small-Scale Dairy Farmers
+* Hardware
+* Department of Animal Husbandry & Dairying
 
 #### PS#2
 
