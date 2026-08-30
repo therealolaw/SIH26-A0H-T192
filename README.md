@@ -33,12 +33,12 @@
 
 * SIH26110
 * Development of a Low-Cost Light-weight Milk Chilling Can for Small-Scale Dairy Farmers
-* Hardware
+* Agriculture, FoodTech & Rural Development/Hardware
 * Department of Animal Husbandry & Dairying
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* 26138
+* Quantum-Inspired Fuel Consumption Prediction and Green Fleet Optimization
+* Clean & Green Technology/software
+* Egreen Quanta
