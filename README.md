@@ -22,8 +22,8 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department                  |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:             |:------------------------ |
-| Academic       |RAJAPANDIYAN         |                       |ELECTRICAL AND ELECTRONICS ENGINEERING|                          |
-| IndustrY       |                     |                       |                                      |                          |
+| Academic       |RAJAPANDIYAN         |ASSISTANT PROFESSOR    |ELECTRICAL AND ELECTRONICS ENGINEERING|rajapandiyan@cb.amrita.edu|
+| Industry       |                     |                       |                                      |                          |
 
 -----
 
