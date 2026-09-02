@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T192
 ### Team Details
-#### **Team Name** <<KILOWATT CREW>> <br/>
+#### KILOWATT CREW
 #### Team Members
 |         Role    |         👤 Name             |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------     |:----------------------:|:---------------:|:-------------------------------:| 
